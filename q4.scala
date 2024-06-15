@@ -1,4 +1,4 @@
-object FtoC{
+object SellBooks{
 def main(args: Array[String])={
     var n = 51
     println(s"Wholesale cost for $n books is :  ${TotalWholeSale(n)}")

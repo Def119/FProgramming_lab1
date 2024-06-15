@@ -1,4 +1,4 @@
-object FtoC{
+object RunningTime{
 def main(args: Array[String])={
     var distance = 2+3+2;
     println(s"Total time of running for ${distance}km is : ${TotalTime(2,3)}mins")
