@@ -1,6 +1,6 @@
 object SellBooks{
 def main(args: Array[String])={
-    var n = 51
+    var n = 60
     println(s"Wholesale cost for $n books is :  ${TotalWholeSale(n)}")
 }
 
