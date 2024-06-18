@@ -6,7 +6,7 @@ def main(args: Array[String])={
 }
 
 def EasyPace(distance: Double): Double = {
-    return distance*8 + distance*2
+    return distance*8 + distance*8
 }
 def Tempo(distance: Double):Double = {
     return distance*7
